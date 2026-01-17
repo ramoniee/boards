@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ray-mawina.co.za
+
+# Sitemaps
+Sitemap: https://ray-mawina.co.za/sitemap.xml
